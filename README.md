@@ -90,7 +90,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue) | **Monday Morning Haskell**
 - [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501) | **Eric Torreborre**
 - [Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html) | **Patrick Thomson**
-- [A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html) | **Keagan McClelland**
+- [A Practical Introduction to Freer Monads (Eff)](https://web.archive.org/web/20190708094636/https://captjakk.com/posts/2019-05-12-practical-intro-eff.html) | **Keagan McClelland**
 
 ### ReaderT Pattern
 
